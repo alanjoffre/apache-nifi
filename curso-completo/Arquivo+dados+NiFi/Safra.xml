@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Distribuicao>
+   <Adega id="uv678">
+      <Dono>Antonio Coimbra</Dono>
+      <Safra>Anos 50</Safra>
+      <Tipo>Tannat</Tipo>
+      <Preco>70.00</Preco>
+      <Datafabri>01-06-1950</Datafabri>
+      <Observacao>uvas de mais alto grau de qualidade</Observacao>
+   </Adega>
+   <Adega id="uv539">
+      <Dono>Carlos Lisboa</Dono>
+      <Safra>Anos 70</Safra>
+      <Tipo>Merlot</Tipo>
+      <Preco>16.90</Preco>
+      <Datafabri>20-04-1970</Datafabri>
+      <Observacao>Uma das uvas mais puras da epoca com grau de tainos altos</Observacao>
+   </Adega>
+</Distribuicao>
